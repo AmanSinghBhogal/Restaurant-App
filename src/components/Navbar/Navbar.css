@@ -57,8 +57,8 @@
     border-bottom: 1px solid var(--color-golden);
 }
 
-.app__Navabar-smallscreen{
-}
+/* .app__Navabar-smallscreen{
+} */
 
 .app__Navbar-smallscreen-overlay{
     background-color: var(--color-black);
