@@ -2,8 +2,6 @@ import React from 'react';
 import { SubHeading } from '../../components';
 import { images,data } from '../../constants';
 
-// Continue Video from 2:10:16
-
 import './Laurels.css';
 
 const AwardCard = ({award}) => (
