@@ -8,11 +8,15 @@ This is a Front End Project made using React.js. This project is made using an f
 
 ## Screen Shots:
 <div align="center">
-  <img src="./public/Images/Geritch Restaurant.gif" height="600"  alt="S2">
+  <img src="./public/Images/Geritch Restaurant.gif" height="450"  alt="S2">
+  
   ***
-  <img src="./public/Images/SS1.jpg" height="600"  alt="S1">
+  
+  <img src="./public/Images/SS1.jpg" height="450"  alt="S1">
+  
   ***
-  <img src="./public/Images/SS2.jpg" height="600"  alt="S2">
+  
+  <img src="./public/Images/SS2.jpg" height="450"  alt="S2">
 </div>
 
 ### Steps to Run on Local Machine
